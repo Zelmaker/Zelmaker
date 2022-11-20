@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**Zelmaker/Zelmaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Sergey Zelenin. Moscow, Russia. I'm 31. I received my knowledge in algebra, mathematical statistics and probability theory at the National Research Nuclear University MEPHI 📚 (specialty in nuclear reactors). 
 
-Here are some ideas to get you started:
+Stack: 
+– Python (Base, Pandas, Numpy) 
+– SQL (SQLlite, SQLAlchemy, BigQuery)
+- Parsing (Bs4, requests, Selenium, Scrapy) 
+– PROD (Django, flask) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+– IDE: PyCharm, Jupyter Notebook, VS Code
+– ML(SciKit-Learn, Pytorch, XGboost, LightGBM, Catboost) 
+– Visualization (Matplotlib, Seaborn) 
+
+
+– Other (pickle, os, Bash, Git, Docker)
+
+
+- 🔭 I’m currently working on some Pet-projects: 
+  Cooking api (getting recipes by entering ingredients)
+  Crypto Binance auto-trading bot
+  Сheat sheet for interviewing for the position of Python developer
+
+
+- 📫 You can reach me at telegram: @zelenin-sa
+
