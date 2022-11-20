@@ -19,5 +19,5 @@ Stack:
 - Сheat sheet for interviewing for the position of Python developer
 
 
-📫 You can reach me at telegram: @zelenin-sa
+📫 You can reach me at telegram: @zelenin_sa
 
