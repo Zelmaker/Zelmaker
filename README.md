@@ -14,9 +14,9 @@ Stack:
 
 
 🔭 I’m currently working on some Pet-projects: 
-- Crypto Binance auto-trading bot
-- Cooking api (getting recipes by entering ingredients)
+Defi Net analyzer
+**The project is under review by the Internet Initiatives Development Fund, Skolkovo Institute of Science and Technology, Binance X, and Ethereum Foundation Grants.**
 
 
-📫 You can reach me at telegram: @zelenin_sa
+📫 You can reach me at telegram: @Zelmaker
 
