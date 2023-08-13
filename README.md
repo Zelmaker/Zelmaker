@@ -3,9 +3,8 @@
 I am Sergey Zelenin. Moscow, Russia. I'm 31. I received my knowledge in algebra, mathematical statistics and probability theory at the National Research Nuclear University MEPHI 📚 (specialty in nuclear reactors). 
 
 🔭 I’m currently working on some Pet-projects: 
-🧨Current: [Best DeFi analysis and trader search service - Zelfiguru](https://zelfiguru.pro/)
-
-🥈Defi token potencial entrance
+🧨Current: 
+[Best DeFi analysis and trader search service - Zelfiguru](https://zelfiguru.pro/)
 
 Stack: 
 - Python (Base, Pandas, Numpy) 
